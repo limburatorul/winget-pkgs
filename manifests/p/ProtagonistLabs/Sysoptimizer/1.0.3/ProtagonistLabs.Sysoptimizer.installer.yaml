@@ -1,0 +1,12 @@
+PackageIdentifier: ProtagonistLabs.Sysoptimizer
+PackageVersion: 1.0.3
+InstallerType: portable
+Commands:
+- sysoptimizer
+ReleaseDate: 2026-09-26
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/limburatorul/sysoptimizer/releases/download/v1.0.3/Sysoptimizer.exe
+  InstallerSha256: 7A6AD6C140EFAEFF67A99B10B89A677B1FB21EB47E5FD53FE5F1121D9E8864AE
+ManifestType: installer
+ManifestVersion: 1.6.0
