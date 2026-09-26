@@ -1,0 +1,12 @@
+PackageIdentifier: ProtagonistLabs.AutoClicker
+PackageVersion: 1.0.5
+InstallerType: portable
+Commands:
+- autoclicker
+ReleaseDate: 2026-09-26
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/limburatorul/auto-clicker/releases/download/v1.0.5/Auto.Clicker.exe
+  InstallerSha256: 11CC20674820461CA2E8D75359391B6539AE763E3B30A5F9A4DB21201BF67D0D
+ManifestType: installer
+ManifestVersion: 1.6.0
