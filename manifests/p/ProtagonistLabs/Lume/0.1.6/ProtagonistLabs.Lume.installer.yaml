@@ -1,0 +1,11 @@
+PackageIdentifier: ProtagonistLabs.Lume
+PackageVersion: 0.1.6
+InstallerType: nullsoft
+Scope: user
+ReleaseDate: 2026-09-26
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/limburatorul/lume/releases/download/v0.1.6/Lume-0.1.6-x64.exe
+  InstallerSha256: 4E94D3A1B0DB720C94EA9A852D9E226170315214E3AD23FC380636A2D8FF10FB
+ManifestType: installer
+ManifestVersion: 1.6.0
