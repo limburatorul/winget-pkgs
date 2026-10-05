@@ -6,7 +6,7 @@ PublisherUrl: https://protagonistlabs.app
 PackageName: "SpaceScan"
 PackageUrl: https://protagonistlabs.app/spacescan/
 License: "MIT"
-LicenseUrl: https://github.com/limburatorul/spacescan/blob/main/LICENSE
+LicenseUrl: https://github.com/limburatorul/spacescan/blob/master/LICENSE
 ShortDescription: "SpaceScan is a free, open-source disk space analyzer for Windows. On NTFS it reads the Master File Table directly, so a whole drive is mapped in seconds, with folder sizes, file types, the largest files and duplicates."
 ReleaseNotesUrl: https://github.com/limburatorul/spacescan/releases/tag/v1.0.0
 Tags:
