@@ -1,0 +1,11 @@
+PackageIdentifier: ProtagonistLabs.FileLabs
+PackageVersion: 1.0.63
+InstallerType: inno
+Scope: machine
+ReleaseDate: 2026-10-29
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/limburatorul/file-labs/releases/download/v1.0.63/FileLabs-1.0.63-setup.exe
+  InstallerSha256: B63F4850006BBC3750E9346416879C9128AACECF9D9E952ACF5C238A430EA0A6
+ManifestType: installer
+ManifestVersion: 1.6.0
